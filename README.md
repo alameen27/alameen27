@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alameen27&show_icons=true&locale=en" alt="alameen27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alameen27&" alt="alameen27" /></p>
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
